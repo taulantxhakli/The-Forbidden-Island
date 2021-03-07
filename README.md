@@ -19,7 +19,7 @@ As for the gameplay itself, it resembles the old COD zombies structure. Waves of
   * [Usage](#usage)
   * [Contributing](#contributing)
   
-  ## Game Sneak-Peek 
+  ## Game Sneak-Peek (to be added)
  
   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
