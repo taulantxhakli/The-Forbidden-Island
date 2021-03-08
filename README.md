@@ -39,7 +39,7 @@ As for the gameplay itself, it resembles the old COD zombies structure. Waves of
   
   For any questions, please contact me with the information below:
  
-  GitHub: (https://github.com/taulantxhakli)
+  Email: txhakli@gmail.com
   
   For just chatting and getting to know me on an unprofessional level:
   
