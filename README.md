@@ -1,9 +1,13 @@
 # The Forbidden Island
   
+   ## Table of Contents
+  * [Description](#description)
+  * [Sneak-Peek](#sneak-peek)
+  * [Contributing](#contributing)
+  * [Questions?](#questions) 
   
-  ## Description and Story of the Project
   
-  
+  ## Description
 The game's backstory revolves around the pirate from Somalia
 named Cabdi. As his name implies, he is ordered to go out
 to sea and find loot to bring back to his Leader. From there, he is instructed to go
@@ -15,10 +19,7 @@ to the island and eliminate anyone that will interfere with his task. Cabdi acce
 without a second thought and takes to the seas to reach the island.
 As for the gameplay itself, it resembles the old COD zombies structure. Waves of zombies will spawn through the blue containers, growing increasingly as time goes on. Unlike the COD zombies, where there is down-time between rounds, there is no rounds or down-time. With the increase of spawned zombies growing through time, they also become stronger and faster. To survive the horde, the player needs to earn money to buy the guns and upgrades scattered around the map.
 
-  ## Table of Contents
-  * [Sneak-Peek](#sneak-peek)
-  * [Contributing](#contributing)
-  * [Questions?](#questions)
+
   
   ## Sneak-Peek
  
