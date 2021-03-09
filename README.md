@@ -18,6 +18,7 @@ As for the gameplay itself, it resembles the old COD zombies structure. Waves of
   ## Table of Contents
   * [Sneak-Peek](#sneak-peek)
   * [Contributing](#contributing)
+  * [Questions?](#questions)
   
   ## Sneak-Peek
  
